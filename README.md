@@ -1,0 +1,2 @@
+# Library-Management-System
+University of Sunderland MSc Computer Science. CETM73 - Software Engineering: The assignment for this module is to implement a library record system in Python. Students were asked to build a system by using object oriented programming concepts. It should be possible to create objects from your implemented Python classes. Each class should contain information about different parts of the system.
